@@ -1,0 +1,9 @@
+{
+  "id":"100001202050496953834",
+  "emails":[{"value":"jimmyjaeyeon@gmail.com","verified":true}],
+  "photos":[{"value":"https://lh5.googleusercontent.com/-wzNTKaqJGdQ/AAAAAAAAAAI/AAAAAAAAAAA/JZQThxb5CLI/photo.jpg"}],
+  "provider":"google",
+  "_raw":"{\n  \"sub\": \"100001202050496953834\",\n  \"picture\": \"https://lh5.googleusercontent.com/-wzNTKaqJGdQ/AAAAAAAAAAI/AAAAAAAAAAA/JZQThxb5CLI/photo.jpg\",\n  \"email\": \"jimmyjaeyeon@gmail.com\",\n  \"email_verified\": true\n}","_json":{"sub":"100001202050496953834","picture":"https://lh5.googleusercontent.com/-wzNTKaqJGdQ/AAAAAAAAAAI/AAAAAAAAAAA/JZQThxb5CLI/photo.jpg",
+  "email":"jimmyjaeyeon@gmail.com",
+  "email_verified":true}
+}
